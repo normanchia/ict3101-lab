@@ -97,6 +97,7 @@ namespace ICT3101_Calculator
             return (num1 / num2);
 
         }
+
         public double Divide(double num1, double num2)
         {
             //lab 2

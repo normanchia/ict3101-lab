@@ -38,7 +38,7 @@ namespace ICT3101_Calculator.UnitTests
         [Test]
         public void Divide_WithZeroAsInputs_ResultThrowArgumentException()
         {
-            Assert.That(() => _calculator.Divide(0, 0), Throws.ArgumentException);
+            Assert.That(() => _calculator.Lab1_Divide(0, 0), Throws.ArgumentException);
         }
 
         [Test]
@@ -47,7 +47,7 @@ namespace ICT3101_Calculator.UnitTests
         [TestCase(10, 0)]
         public void Divide_WithZerosAsInputs_ResultThrowArgumentException(double a, double b)
         {
-            Assert.That(() => _calculator.Divide(a, b), Throws.ArgumentException);
+            Assert.That(() => _calculator.Lab1_Divide(a, b), Throws.ArgumentException);
         }
 
         [Test]
