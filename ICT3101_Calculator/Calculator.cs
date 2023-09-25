@@ -86,19 +86,24 @@ namespace ICT3101_Calculator
         {
             return (num1 * num2);
         }
-        public double Divide(double num1, double num2)
+
+        public double Lab1_Divide(double num1, double num2)
         {
-            // lab 1
             if (num1 == 0 || num2 == 0)
             {
                 throw new ArgumentException("cannot be zero");
             }
 
-            // lab 2
-            //if (num1 == num2)
-            //{
-            //    return 1;
-            //}
+            return (num1 / num2);
+
+        }
+        public double Divide(double num1, double num2)
+        {
+            //lab 2
+            if (num1 == num2)
+            {
+                return 1;
+            }
             return (num1 / num2);
         }
 
