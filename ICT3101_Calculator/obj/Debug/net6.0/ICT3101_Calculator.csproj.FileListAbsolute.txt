@@ -1,0 +1,15 @@
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\obj\Debug\net6.0\ICT3101_Calculator.csproj.AssemblyReference.cache
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\obj\Debug\net6.0\ICT3101_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\obj\Debug\net6.0\ICT3101_Calculator.AssemblyInfoInputs.cache
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\obj\Debug\net6.0\ICT3101_Calculator.AssemblyInfo.cs
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\obj\Debug\net6.0\ICT3101_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\bin\Debug\net6.0\ICT3101_Calculator.exe
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\bin\Debug\net6.0\ICT3101_Calculator.deps.json
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\bin\Debug\net6.0\ICT3101_Calculator.runtimeconfig.json
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\bin\Debug\net6.0\ICT3101_Calculator.dll
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\bin\Debug\net6.0\ICT3101_Calculator.pdb
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\obj\Debug\net6.0\ICT3101_Calculator.dll
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\obj\Debug\net6.0\refint\ICT3101_Calculator.dll
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\obj\Debug\net6.0\ICT3101_Calculator.pdb
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\obj\Debug\net6.0\ICT3101_Calculator.genruntimeconfig.cache
+C:\Users\chai hong\Documents\ICT\3101 Software Verification and Validation\Lab\ICT3101_Calculator\ICT3101_Calculator\obj\Debug\net6.0\ref\ICT3101_Calculator.dll
